@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Dev
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on 
-- 📫 Reach me @linked.com/in/shanjha
+- 📫 Reach me @linkedin.com/in/shanjha
 
 <!---
 Shanjha/Shanjha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
